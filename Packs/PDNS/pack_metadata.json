@@ -1,0 +1,20 @@
+{
+    "name": "PDNS",
+    "description": "Retrieve PDNS Logs.",
+    "support": "community",
+    "currentVersion": "1.0.0",
+    "author": "Martin Ohl",
+    "url": "https://www.paloaltonetworks.com/",
+    "email": "mohl@paloaltonetworks.com",
+    "created": "2024-06-08T23:53:12Z",
+    "categories": [
+        "Network Security"
+    ],
+    "tags": [],
+    "useCases": [],
+    "keywords": [],
+    "marketplaces": [
+        "xsoar",
+        "marketplacev2"
+    ]
+}
